@@ -7,7 +7,7 @@
 <html>
     
 	<head>
-		<title>Emilie</title>
+		<title>Contactez Moi</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 ">
@@ -82,66 +82,47 @@
 
             <!-- Main -->
             <div id="main">
-                <!-- One -->
-    <section id="one">
-        <div class="container">
-            <header class="major">
-                <h3>Developpeur Web</h3>
-            </header>
-            <p>Passionnée d'informatique, je suis développeur Objet depuis 9 ans. Mes différentes expériences professionnelles m'ont spécialisées dans le Java.<br />
-                J'aime les nouvelles technologies et les challenges technologiques. <br/>
-                Je fais du travail soigné, rigoureux et de qualité.<br/>
-                </p>
-        </div>
-    </section>
-
-<!-- Two -->
-    <!--<section id="two">-->
-        <!--<div class="container">-->
-            <!--<h3>Things I Can Do</h3>-->
-            <!--<p>Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer lorem ipsum dolor sit amet.</p>-->
-            <!--<ul class="feature-icons">-->
-                <!--<li class="fa-code">Write all the code</li>-->
-                <!--<li class="fa-cubes">Stack small boxes</li>-->
-                <!--<li class="fa-book">Read books and stuff</li>-->
-                <!--<li class="fa-coffee">Drink much coffee</li>-->
-                <!--<li class="fa-bolt">Lightning bolt</li>-->
-                <!--<li class="fa-users">Shadow clone technique</li>-->
-            <!--</ul>-->
-        <!--</div>-->
-    <!--</section>-->
-
-<!-- Three -->
-    <!--<section id="three">-->
-        <!--<div class="container">-->
-            <!--<h3>A Few Accomplishments</h3>-->
-            <!--<p>Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer. Integer eu ante ornare amet commetus.</p>-->
-            <!--<div class="features">-->
-                <!--<article>-->
-                    <!--<a href="#" class="image"><img src="images/pic01.jpg" alt="" /></a>-->
-                    <!--<div class="inner">-->
-                        <!--<h4>Possibly broke spacetime</h4>-->
-                        <!--<p>Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet.</p>-->
-                    <!--</div>-->
-                <!--</article>-->
-                <!--<article>-->
-                    <!--<a href="#" class="image"><img src="images/pic02.jpg" alt="" /></a>-->
-                    <!--<div class="inner">-->
-                        <!--<h4>Terraformed a small moon</h4>-->
-                        <!--<p>Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet.</p>-->
-                    <!--</div>-->
-                <!--</article>-->
-                <!--<article>-->
-                    <!--<a href="#" class="image"><img src="images/pic03.jpg" alt="" /></a>-->
-                    <!--<div class="inner">-->
-                        <!--<h4>Snapped dark matter in the wild</h4>-->
-                        <!--<p>Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet.</p>-->
-                    <!--</div>-->
-                <!--</article>-->
-            <!--</div>-->
-        <!--</div>-->
-    <!--</section>-->
-
+                <section id="one">
+    <div class="container">
+        <h3>Contactez Moi</h3>
+        <p>N'hésitez pas à me contacter pour avoir un devis.</p>
+        <div id="sendMail"  hidden><b>Mail envoyé</b></div>
+        <form role="form" id="contactForm">
+            <div class="row uniform">
+                <div class="6u 12u(xsmall)"><input type="text" name="name" id="name" placeholder="Nom" required="true"/></div>
+                <div class="6u 12u(xsmall)"><input type="email" name="email" id="email" placeholder="Email" required="true"/></div>
+            </div>
+            <div class="row uniform">
+                <div class="12u"><input type="text" name="webSite" id="webSite" placeholder="Adresse de votre site web" /></div>
+            </div>
+            <div class="row uniform">
+                <div class="6u 12u input-control select"><select name="budget" id="budget" placeholder="Budget" >
+                    <option selected="true">Budget</option>
+                    <option>300-500€</option>
+                    <option>500-1000€</option>
+                    <option>+1000€</option>
+                    </select></div>
+                <div class="6u 12u input-control select"><select name="delai" id="delai" placeholder="delai" >
+                    <option selected="true">Delai</option>
+                    <option>Urgent</option>
+                    <option>1 mois</option>
+                    <option>2 mois</option>
+                </select></div>
+            </div>
+            <div class="row uniform">
+                <div class="12u"><textarea name="message" id="message" placeholder="Décrivez avec précision votre projet" rows="6"></textarea></div>
+            </div>
+            <div class="row uniform">
+                <div class="12u">
+                    <ul class="actions">
+                        <li><input type="submit" id="contactbutton" class="special" value="Envoi" /></li>
+                        <li><input type="reset" value="Réinitialise" /></li>
+                    </ul>
+                </div>
+            </div>
+        </form>
+    </div>
+</section>
 
             </div>
             <!-- include: "type": "js", "files": "js/*.js", "baseUrl": "/" -->

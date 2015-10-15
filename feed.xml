@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emilie</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://emilie-deltil.com/freelance/</link>
+    <atom:link href="http://emilie-deltil.com/freelance/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 15 Oct 2015 23:10:55 +0200</pubDate>
+    <lastBuildDate>Thu, 15 Oct 2015 23:10:55 +0200</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Riku Création</title>
+        <description>&lt;p&gt;Création d’un site e commerce pour vendre des créations en cuir en Wordpress avec un module WooCommerce.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 12 Sep 2014 00:00:00 +0200</pubDate>
+        <link>http://emilie-deltil.com/freelance/projects/ecommerce/2014/09/12/riku-creation.html</link>
+        <guid isPermaLink="true">http://emilie-deltil.com/freelance/projects/ecommerce/2014/09/12/riku-creation.html</guid>
+        
+        
+        <category>projects</category>
+        
+        <category>ecommerce</category>
+        
+      </item>
+    
+      <item>
+        <title>Conception et développement d’applications de gestion d’actes notariés</title>
+        <description>&lt;p&gt;Ces applications permettent de sauvegarder une minute notariale de façon sécurisée.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+Auto-formation sur AngularJS et Bootstrap
+&lt;/li&gt;
+&lt;li&gt;
+Conception et développement de services REST et SOAP utilisés entre les différentes
+applications
+&lt;/li&gt;&lt;li&gt;
+Réalisation des tests unitaires et d'intégration via JUnit
+&lt;/li&gt;&lt;li&gt;
+Utilisation de Scrum pour la gestion du projet
+&lt;/li&gt;
+&lt;li&gt;
+Démonstration de l'application au client
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 12 Sep 2014 00:00:00 +0200</pubDate>
+        <link>http://emilie-deltil.com/freelance/cv/2014/09/12/adsn.html</link>
+        <guid isPermaLink="true">http://emilie-deltil.com/freelance/cv/2014/09/12/adsn.html</guid>
+        
+        
+        <category>cv</category>
+        
+      </item>
+    
+      <item>
+        <title>Conception et développement d’une application de retargeting publicitaire</title>
+        <description>&lt;p&gt;Cette application permet de proposer de la publicité aux internautes après leur passage sur un site
+marchand. Afin de permettre un ciblage pointu et de proposer des produits susceptibles d’intéresser 
+l’internaute, nous collectons les catalogues produits via des flux XML ou CSV.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+Mise en place de Pentaho et création de plugins pour intégrer les flux XML et CSV 
+&lt;/li&gt;&lt;li&gt;
+Conception et développement de la sélection de produits à afficher dans les bannières
+&lt;/li&gt;&lt;li&gt;
+Mise en place des tests unitaires et d'intégration via Junit
+&lt;/li&gt;&lt;li&gt;
+Suivi de la qualité du code par l'installation Sonar
+&lt;/li&gt;&lt;li&gt;
+Gestion de projet, du recueil des besoins client jusqu'à la livraison
+&lt;/li&gt;&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 12 Jun 2012 00:00:00 +0200</pubDate>
+        <link>http://emilie-deltil.com/freelance/cv/2012/06/12/nextperformance.html</link>
+        <guid isPermaLink="true">http://emilie-deltil.com/freelance/cv/2012/06/12/nextperformance.html</guid>
+        
+        
+        <category>cv</category>
+        
+      </item>
+    
+      <item>
+        <title>Conception et développement d’une application de gestion d’un parc hôtelier</title>
+        <description>&lt;p&gt;Cette application permet de gérer les hôtels d’une chaîne ou d’un particulier pour revendre les réservations aux différents distributeurs en ligne (Expedia, Venere, Booking, …). Ainsi elle envoie les inventaires, disponibilités, ouvertures et fermetures des hôtels via des interfaces XML.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+Conception et développement des interfaces Soap et EbXML 
+&lt;/li&gt;&lt;li&gt;
+Gestion de projets distributeur et hôtels
+&lt;ul&gt;&lt;li&gt;Expression des besoins clients&lt;/li&gt;
+&lt;li&gt;Points d'avancement du projet&lt;/li&gt;
+&lt;li&gt;Validation client&lt;/li&gt;
+&lt;li&gt;Livraison en production&lt;/li&gt;&lt;/ul&gt;
+&lt;/li&gt;&lt;li&gt;
+Résolution des incidents de production
+&lt;/li&gt;&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 12 May 2010 00:00:00 +0200</pubDate>
+        <link>http://emilie-deltil.com/freelance/cv/2010/05/12/IT.html</link>
+        <guid isPermaLink="true">http://emilie-deltil.com/freelance/cv/2010/05/12/IT.html</guid>
+        
+        
+        <category>cv</category>
+        
+      </item>
+    
+      <item>
+        <title>Maintenance d’applications Telecom</title>
+        <description>&lt;p&gt;Maintenir plusieurs applications permettant la synchronisation des contacts de la carte SIM et du téléphone avec le serveur de données.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+Résolution et tests des incidents de production 
+&lt;/li&gt;&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 12 Jan 2010 00:00:00 +0100</pubDate>
+        <link>http://emilie-deltil.com/freelance/cv/2010/01/12/GemaltoLC.html</link>
+        <guid isPermaLink="true">http://emilie-deltil.com/freelance/cv/2010/01/12/GemaltoLC.html</guid>
+        
+        
+        <category>cv</category>
+        
+      </item>
+    
+      <item>
+        <title>Conception et développement d’une application  pour designer les cartes à puce</title>
+        <description>&lt;p&gt;Cette application permet de créer le design graphique des cartes à puce à destination des Telecom. Elle assure donc leur conformité aux exigences client, et raccourcit les processus de production.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+Conception et développement de nouveaux écrans en Eclipse RCP 
+&lt;/li&gt;&lt;li&gt;Correction de bugs
+&lt;/li&gt;&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 12 Sep 2009 00:00:00 +0200</pubDate>
+        <link>http://emilie-deltil.com/freelance/cv/2009/09/12/GemaltoG.html</link>
+        <guid isPermaLink="true">http://emilie-deltil.com/freelance/cv/2009/09/12/GemaltoG.html</guid>
+        
+        
+        <category>cv</category>
+        
+      </item>
+    
+      <item>
+        <title>Conception et développement d’une application  pour référencer les harnais électriques</title>
+        <description>&lt;p&gt;Cette application a pour but de référencer les harnais électriques d’un hélicoptère. Ainsi à partir de cette application les ouvriers peuvent créer correctement les différents harnais d’hélicoptères.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+Création d’une documentation utilisateur en anglais 
+&lt;/li&gt;&lt;li&gt;Auto-formation du langage C#
+&lt;/li&gt;&lt;li&gt;Conception et développement de nouveaux écrans en C# permettant le câblage électrique
+&lt;/li&gt;&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 12 May 2009 00:00:00 +0200</pubDate>
+        <link>http://emilie-deltil.com/freelance/cv/2009/05/12/Eurocopter.html</link>
+        <guid isPermaLink="true">http://emilie-deltil.com/freelance/cv/2009/05/12/Eurocopter.html</guid>
+        
+        
+        <category>cv</category>
+        
+      </item>
+    
+      <item>
+        <title>Conception et développement d’une application  pour référencer les ouvrages d’art de la SNCF</title>
+        <description>&lt;p&gt;Cette application a pour but de référencer les ouvrages d’art (ponts, tunnels, viaduc …) de la SNCF et de pouvoir à partir de celle-ci créer des PV de visites. A partir de ces visites, des travaux peuvent être générés, elle contient donc également une partie de la gestion des budgets liés aux travaux.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+Conception et développement de l’application 
+&lt;/li&gt;&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 12 Sep 2008 00:00:00 +0200</pubDate>
+        <link>http://emilie-deltil.com/freelance/cv/2008/09/12/sncf.html</link>
+        <guid isPermaLink="true">http://emilie-deltil.com/freelance/cv/2008/09/12/sncf.html</guid>
+        
+        
+        <category>cv</category>
+        
+      </item>
+    
+      <item>
+        <title>Maintenance corrective et évolutive d’une application à but économique</title>
+        <description>&lt;p&gt;Cette application a pour but de référencer toutes les données économiques des points de ventes et filiales de PSA pour pouvoir les comparer.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+Conception et développement de nouveaux écrans grâce au framework struts 
+&lt;/li&gt;&lt;li&gt;
+Résolution d'incidents de production 
+&lt;/li&gt;&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 12 Oct 2007 00:00:00 +0200</pubDate>
+        <link>http://emilie-deltil.com/freelance/cv/2007/10/12/psa.html</link>
+        <guid isPermaLink="true">http://emilie-deltil.com/freelance/cv/2007/10/12/psa.html</guid>
+        
+        
+        <category>cv</category>
+        
+      </item>
+    
+      <item>
+        <title>Conception et développement d’une application de gestion</title>
+        <description>&lt;p&gt;Cette application a été conçue dans le but d’obtenir une certification MASE. Elle permet de stocker de nombreuses informations sur le personnel (véhicules, habilitations …) et sur les actions en rapport avec l’environnement.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+Recueil des besoins des utilisateurs 
+&lt;/li&gt;&lt;li&gt;
+Conception et développement d’une application Java/J2EE 
+&lt;/li&gt;&lt;li&gt;
+Livraison et installation de la production
+&lt;/li&gt;&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 12 Sep 2006 00:00:00 +0200</pubDate>
+        <link>http://emilie-deltil.com/freelance/cv/2006/09/12/seaspeo.html</link>
+        <guid isPermaLink="true">http://emilie-deltil.com/freelance/cv/2006/09/12/seaspeo.html</guid>
+        
+        
+        <category>cv</category>
+        
+      </item>
+    
+  </channel>
+</rss>
