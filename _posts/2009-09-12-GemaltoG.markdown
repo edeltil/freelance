@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Conception et développement d’une application  pour designer les cartes à puce"
+function: "Ingénieur d’étude Eclipse RCP"
+date-start:   2009-12
+date-end: 2008-09
+categories: cv
+company: "Gemalto via SII"
+place: "Gémenos" 
+technologies: Eclipse RCP (SWT, JFace), Eclipse , Windows, MKS
+---
+Cette application permet de créer le design graphique des cartes à puce à destination des Telecom. Elle assure donc leur conformité aux exigences client, et raccourcit les processus de production.
+<ul><li>
+Conception et développement de nouveaux écrans en Eclipse RCP 
+</li><li>Correction de bugs
+</li></ul>

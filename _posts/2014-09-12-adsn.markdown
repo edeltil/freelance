@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Conception et développement d’applications de gestion d’actes notariés"
+function: "Ingénieur d’étude Java/J2EE"
+date-start:   2014-09
+categories: cv
+technologies: Tomcat, Eclipse, Windows, Git, Java 1.8, J2EE, Jersey, Junit, Maven,  Oracle, AngularJS, Bootstrap, Spring 4
+---
+
+Ces applications permettent de sauvegarder une minute notariale de façon sécurisée.
+<ul>
+<li>
+Auto-formation sur AngularJS et Bootstrap
+</li>
+<li>
+Conception et développement de services REST et SOAP utilisés entre les différentes
+applications
+</li><li>
+Réalisation des tests unitaires et d'intégration via JUnit
+</li><li>
+Utilisation de Scrum pour la gestion du projet
+</li>
+<li>
+Démonstration de l'application au client
+</li>
+</ul>

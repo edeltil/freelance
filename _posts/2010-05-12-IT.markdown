@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Conception et développement d’une application de gestion d’un parc hôtelier"
+function: "Ingénieur d’étude Java/J2EE"
+date-start:   2010-05
+date-end: 2012-06
+categories: cv
+company: "Interfaces Technologie"
+place: "La penne sur huveaune" 
+technologies: JBoss, MySQL, Eclipse , Ubuntu, CVS, Java 1.6, J2EE, Struts, XML, méthodologie Scrum, Maven, GIT, Linux
+---
+Cette application permet de gérer les hôtels d’une chaîne ou d’un particulier pour revendre les réservations aux différents distributeurs en ligne (Expedia, Venere, Booking, …). Ainsi elle envoie les inventaires, disponibilités, ouvertures et fermetures des hôtels via des interfaces XML.
+<ul><li>
+Conception et développement des interfaces Soap et EbXML 
+</li><li>
+Gestion de projets distributeur et hôtels
+<ul><li>Expression des besoins clients</li>
+<li>Points d'avancement du projet</li>
+<li>Validation client</li>
+<li>Livraison en production</li></ul>
+</li><li>
+Résolution des incidents de production
+</li></ul>

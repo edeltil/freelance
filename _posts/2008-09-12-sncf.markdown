@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Conception et développement d’une application  pour référencer les ouvrages d’art de la SNCF"
+function: "Ingénieur d’étude J2EE"
+date-start:   2008-09
+date-end: 2009-04
+categories: cv
+company: "SNCF via GFI"
+place: "Paris (8ème)" 
+technologies: Java 1.5, J2EE (servlet, jsp), Javascript, kit jraf (adaptation de struts), gwt, Tomcat, Windows, Oracle, Eclipse
+---
+Cette application a pour but de référencer les ouvrages d’art (ponts, tunnels, viaduc …) de la SNCF et de pouvoir à partir de celle-ci créer des PV de visites. A partir de ces visites, des travaux peuvent être générés, elle contient donc également une partie de la gestion des budgets liés aux travaux.
+<ul><li>
+Conception et développement de l’application 
+</li></ul>

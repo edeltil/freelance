@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Diplôme d’ingénieur en Informatique et Réseaux en alternance"
+date-start:   2004-09
+date-end: 2007-09
+categories: cv
+company: "Ingénieurs 2000"
+place: "Champs sur Marne (umlv/CNAM) (77)" 
+---

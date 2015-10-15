@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Conception et développement d’une application de gestion"
+function: "Ingénieur d’étude J2EE"
+date-start:   2004-09
+date-end: 2007-09
+categories: cv
+company: "Elyo-Seaspeo"
+place: "Choisy le roi (94)" 
+technologies: Java 1.6, J2EE (ejb3, servlet, jsp), Windows XP, Mysql, Netbeans, UML (Poséidon)
+---
+Cette application a été conçue dans le but d’obtenir une certification MASE. Elle permet de stocker de nombreuses informations sur le personnel (véhicules, habilitations …) et sur les actions en rapport avec l’environnement.
+<ul><li>
+Recueil des besoins des utilisateurs 
+</li><li>
+Conception et développement d’une application Java/J2EE 
+</li><li>
+Livraison et installation de la production
+</li></ul>

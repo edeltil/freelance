@@ -1,0 +1,25 @@
+---
+title: Projets
+layout: default
+---
+
+<section id="one" >
+    <div class="container">
+        <section class="container">
+            <header class="major">
+                <h3>Réalisation de sites internet</h3>
+            </header>
+            <div class="row no-collapse-1">
+        {% for post in site.posts %}
+            {% if post.categories contains 'projects' %}
+                <section class="4u diapo">
+                    <div class="post-title"><a target="_blank" href="{{post.link}}">{{ post.title }}</a></div>
+                    <div class="image feature"><img src="/freelance/images/{{post.image}}" alt=""></div>
+                    <div>{{ post.content }}</div>
+                </section>
+            {% endif %}
+        {% endfor %}
+                </div>
+            </section>
+    </div>
+</section>

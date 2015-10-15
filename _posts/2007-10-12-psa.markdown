@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Maintenance corrective et évolutive d’une application à but économique"
+function: "Ingénieur d’étude J2EE"
+date-start:   2007-10
+date-end: 2008-09
+categories: cv
+company: "PSA via GFI - BTD Consulting"
+place: "Poissy (78)" 
+technologies: Java 1.4, J2EE (ejb2, servlet, jsp), Javascript, lego (adaptation de struts), JBoss, WebSphere, ZOS, DB2, Eclipse
+---
+Cette application a pour but de référencer toutes les données économiques des points de ventes et filiales de PSA pour pouvoir les comparer.
+<ul><li>
+Conception et développement de nouveaux écrans grâce au framework struts 
+</li><li>
+Résolution d'incidents de production 
+</li></ul>

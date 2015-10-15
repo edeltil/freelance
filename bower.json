@@ -1,0 +1,21 @@
+{
+  "name": "freelance",
+  "version": "0.0.0",
+  "homepage": "https://github.com/edeltil/freelance",
+  "authors": [
+    "edeltil <edeltil@gmail.com>"
+  ],
+  "description": "Site perso",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "~4.0.0-alpha",
+    "font-awesome": "~4.4.0"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Développement d’un automate EXOFLEX"
+function: "Analyste-programmeur"
+date-start:   2004-09
+date-end: 2007-09
+categories: cv
+company: "Elyo-Seaspeo"
+place: "Choisy le roi (94)" 
+technologies: Exoflex, Grafcet, Panorama
+---
+Cette automate a pour but de gérer l’intensité du courant délivré par des alimentations qui actionnent un champ magnétique et permet de diriger un faisceau d’électron. Il est commandé à partir d’une application de supervision développée par le CEA.
+<ul><li>
+Apprentissage du langage Exoflex  
+</li><li>
+Développement d'une application automate Exoflex pour le CEA de Bruyère le Châtel.
+</li></ul>

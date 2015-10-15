@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Conception et développement d’une application de contrôle de pression et de température"
+function: "Analyste-programmeur"
+date-start:   2004-09
+date-end: 2007-09
+categories: cv
+company: "Elyo-Seaspeo"
+place: "Choisy le roi (94)" 
+technologies: VB .NET, XML, MySQL, Modules Coronis
+---
+Cette application permet de communiquer avec des modules de pression et de température pour prendre des mesures dans des caissons sous vide.
+<ul><li>
+Reprise de code en Visual Basic .NET  
+</li><li>
+Finalisation de l’application en Visual Basic .NET dialoguant avec des modules Coronis.  
+</li></ul>

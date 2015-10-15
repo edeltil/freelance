@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Bac S"
+date-start:   1999-09
+date-end: 2002-09
+categories: cv
+company: "Lycée Saint Pierre"
+place: "Brunoy (91)" 
+---

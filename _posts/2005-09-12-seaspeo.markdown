@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Conception et développement d’une maquette électronique simulant une chaudière"
+function: "Ingénieur d’étude Exoflex, Genesys32"
+date-start:   2004-09
+date-end: 2007-09
+categories: cv
+company: "Elyo-Seaspeo"
+place: "Choisy le roi (94)" 
+technologies: Exoflex, Grafcet, Genesys 32
+---
+Cette application est une maquette pour présenter un autocontrôle de chaudière et ainsi élargir le champ d’action de Seaspeo.
+<ul><li>
+Etude d’applications déjà existantes  
+</li><li>
+Conception et développement d’une application pour automate Exoflex  
+</li><li>
+Conception et développement de sa supervision pour la surveillance d’une chaudière
+</li></ul>

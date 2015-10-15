@@ -1,0 +1,28 @@
+---
+layout: default
+---
+<section id="one" >
+    <div class="container">
+        <header class="major">
+            <h3>{{ page.title }}</h3>
+                <p class="post-meta">{{ page.date-start | date-start: "%b %-d, %Y" }} {% if page.date-end %} • {{ page.date-end | date-end: "%b %-d, %Y" }} {% else %} • A ce jour {% endif %} {% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+            <h4>{{page.function}}</h4>
+        </header>
+
+        <section class="post-content">
+            {{ content }}
+        </section>
+        <section class="post-footer">
+            {{ page.technologies }}
+        </section>
+        
+        <footer>
+            {% if page.previous %}
+            <a href="{{ site.baseurl }}{{ page.previous.url }}" class="float-left">&larr; Previous post</a> {% endif %}
+            {% if page.next %}
+            <a href="{{ site.baseurl }}{{ page.next.url }}" class="float-right">Next post &rarr;</a> {% endif %}
+        </footer>
+
+    </div>
+
+</section>

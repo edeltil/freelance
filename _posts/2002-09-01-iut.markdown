@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "DUT en Génie Electronique et Informatique Industrielle"
+date-start:   2002-09
+date-end: 2004-09
+categories: cv
+company: "IUT Sénart"
+place: "Paris XII (Lieusaint-77)" 
+---

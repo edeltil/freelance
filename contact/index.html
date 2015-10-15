@@ -1,0 +1,46 @@
+---
+title: Contactez Moi
+layout: default
+---
+
+<section id="one">
+    <div class="container">
+        <h3>Contactez Moi</h3>
+        <p>N'hésitez pas à me contacter pour avoir un devis.</p>
+        <div id="sendMail"  hidden><b>Mail envoyé</b></div>
+        <form role="form" id="contactForm">
+            <div class="row uniform">
+                <div class="6u 12u(xsmall)"><input type="text" name="name" id="name" placeholder="Nom" required="true"/></div>
+                <div class="6u 12u(xsmall)"><input type="email" name="email" id="email" placeholder="Email" required="true"/></div>
+            </div>
+            <div class="row uniform">
+                <div class="12u"><input type="text" name="webSite" id="webSite" placeholder="Adresse de votre site web" /></div>
+            </div>
+            <div class="row uniform">
+                <div class="6u 12u input-control select"><select name="budget" id="budget" placeholder="Budget" >
+                    <option selected="true">Budget</option>
+                    <option>300-500€</option>
+                    <option>500-1000€</option>
+                    <option>+1000€</option>
+                    </select></div>
+                <div class="6u 12u input-control select"><select name="delai" id="delai" placeholder="delai" >
+                    <option selected="true">Delai</option>
+                    <option>Urgent</option>
+                    <option>1 mois</option>
+                    <option>2 mois</option>
+                </select></div>
+            </div>
+            <div class="row uniform">
+                <div class="12u"><textarea name="message" id="message" placeholder="Décrivez avec précision votre projet" rows="6"></textarea></div>
+            </div>
+            <div class="row uniform">
+                <div class="12u">
+                    <ul class="actions">
+                        <li><input type="submit" id="contactbutton" class="special" value="Envoi" /></li>
+                        <li><input type="reset" value="Réinitialise" /></li>
+                    </ul>
+                </div>
+            </div>
+        </form>
+    </div>
+</section>
