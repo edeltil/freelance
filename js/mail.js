@@ -1,8 +1,8 @@
 $(document).ready(function($) {
     
 	$("#contactbutton:submit").click(function (e) {
-	    $("#sendMail").text("Mail en cours d'envoi.....").addClass('submit');
-	    $("#contactForm:submit").attr("disabled", true);	
+	    $('#sendMail').text("Mail en cours d'envoi.....");//.addClass('submit');
+	    $("#contactbutton:submit").attr("disabled", true);	
         // get values from FORM
         var name = $("input#name").val();
         var email = $("input#email").val();
