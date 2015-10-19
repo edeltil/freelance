@@ -10,7 +10,7 @@
 		min-width: 320px;
 	}
 
-	body, input, select, textarea {
+	body, input, select, textarea, button {
 		font-size: 12pt;
 	}
 
@@ -58,6 +58,6 @@
 	input[type="submit"],
 	input[type="reset"],
 	input[type="button"],
-	.button {
+	.button, button {
 		padding: 0;
 	}

@@ -8,7 +8,7 @@ layout: default
         <h3>Contactez Moi</h3>
         <p>N'hésitez pas à me contacter pour avoir un devis.</p>
         <div id="sendMail"  hidden><b>Mail envoyé</b></div>
-        <form role="form" id="contactForm">
+        <form role="form" id="contactForm" class="prevent-double-submit">
             <div class="row uniform">
                 <div class="6u 12u(xsmall)"><input type="text" name="name" id="name" placeholder="Nom" required="true"/></div>
                 <div class="6u 12u(xsmall)"><input type="email" name="email" id="email" placeholder="Email" required="true"/></div>
@@ -36,7 +36,7 @@ layout: default
             <div class="row uniform">
                 <div class="12u">
                     <ul class="actions">
-                        <li><input type="submit" id="contactbutton" class="special" value="Envoi" /></li>
+                        <li><button id="contactbutton" class="special" >Envoi</button></li>
                         <li><input type="reset" value="Réinitialise" /></li>
                     </ul>
                 </div>

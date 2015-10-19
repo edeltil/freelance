@@ -1,33 +1,31 @@
+<head>
+	<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
-	<head>
-		<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-		<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+	<meta name="keywords" content="" />
+	<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
+	<script src="{{ site.baseurl }}/js/jquery.min.js"></script>
+	<script src="{{ site.baseurl }}/js/jquery.scrollzer.min.js"></script>
+	<script src="{{ site.baseurl }}/js/jquery.scrolly.min.js"></script>
+	<script src="{{ site.baseurl }}/js/skel.min.js"></script>
+	<script src="{{ site.baseurl }}/js/skel-layers.min.js"></script>
+	<script src="{{ site.baseurl }}/js/init.js"></script>
+	<script src="{{ site.baseurl }}/js/mail.js"></script>
+	<script src="http://www.parsecdn.com/js/parse-1.2.1.min.js"></script>
+	<noscript>
+		<link rel="stylesheet" href="{{ site.baseurl }}/css/skel.css" />
+		<link rel="stylesheet" href="{{ site.baseurl }}/css/style.css" />
+		<link rel="stylesheet" href="{{ site.baseurl }}/css/style-xlarge.css" />
+		<link rel="stylesheet" href="{{ site.baseurl }}/css/main.scss" />
+	</noscript>
+	<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
 
-		<meta name="keywords" content="" />
-		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
-		<script src="{{ site.baseurl }}/js/jquery.min.js"></script>
-		<script src="{{ site.baseurl }}/js/jquery.scrollzer.min.js"></script>
-		<script src="{{ site.baseurl }}/js/jquery.scrolly.min.js"></script>
-		<script src="{{ site.baseurl }}/js/skel.min.js"></script>
-		<script src="{{ site.baseurl }}/js/skel-layers.min.js"></script>
-		<script src="{{ site.baseurl }}/js/init.js"></script>
-		<script src="{{ site.baseurl }}/js/mail.js"></script>
-		<script src="http://www.parsecdn.com/js/parse-1.2.1.min.js"></script>
-		<noscript>
-			<link rel="stylesheet" href="{{ site.baseurl }}/css/skel.css" />
-			<link rel="stylesheet" href="{{ site.baseurl }}/css/style.css" />
-			<link rel="stylesheet" href="{{ site.baseurl }}/css/style-xlarge.css" />
-			<link rel="stylesheet" href="{{ site.baseurl }}/css/main.scss" />
-		</noscript>
-		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+	<!-- build:css /css/*.css , "baseUrl": "/freelance/"-->
+	<!-- endbuild -->
 
-		<!-- build:css /css/*.css , "baseUrl": "/freelance/"-->
-		<!-- endbuild -->
-
-		<!-- build:css /css/vendor.css -->
-		<!-- bower:css -->
-		<!-- endbower -->
-		<!-- endbuild -->
-	</head>
-		
+	<!-- build:css /css/vendor.css -->
+	<!-- bower:css -->
+	<!-- endbower -->
+	<!-- endbuild -->
+</head>

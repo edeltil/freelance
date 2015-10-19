@@ -14,7 +14,7 @@
 		background: #fff;
 	}
 
-	body, input, select, textarea {
+	body, input, select, textarea, button {
 		color: #888;
 		font-family: "Lato", sans-serif;
 		font-size: 16pt;
@@ -233,7 +233,7 @@ section.diapo{
 	input[type="password"],
 	input[type="email"],
 	select,
-	textarea {
+	textarea,button {
 		-moz-appearance: none;
 		-webkit-appearance: none;
 		-o-appearance: none;
@@ -254,7 +254,7 @@ section.diapo{
 		input[type="password"]:invalid,
 		input[type="email"]:invalid,
 		select:invalid,
-		textarea:invalid {
+		textarea:invalid{
 			box-shadow: none;
 		}
 
@@ -746,7 +746,9 @@ section.diapo{
 	input[type="submit"],
 	input[type="reset"],
 	input[type="button"],
-	.button {
+	.button,
+	button
+	{
 		-moz-appearance: none;
 		-webkit-appearance: none;
 		-o-appearance: none;
@@ -858,7 +860,8 @@ section.diapo{
 		input[type="submit"].special,
 		input[type="reset"].special,
 		input[type="button"].special,
-		.button.special {
+		.button.special,
+		button.special{
 			background-color: #aba3f9;
 			color: #ffffff !important;
 		}
@@ -866,14 +869,16 @@ section.diapo{
 			input[type="submit"].special:hover,
 			input[type="reset"].special:hover,
 			input[type="button"].special:hover,
-			.button.special:hover {
+			.button.special:hover,
+			button.special:hover{
 				background-color: #5ed0b1;
 			}
 
 			input[type="submit"].special:active,
 			input[type="reset"].special:active,
 			input[type="button"].special:active,
-			.button.special:active {
+			.button.special:active,
+			button.special:active{
 				background-color: #39c29d;
 			}
 
@@ -883,7 +888,9 @@ section.diapo{
 		input[type="button"].disabled,
 		input[type="button"]:disabled,
 		.button.disabled,
-		.button:disabled {
+		.button:disabled
+		button.disabled
+		button:disabled{
 			background-color: #888 !important;
 			box-shadow: inset 0 -0.15em 0 0 rgba(0, 0, 0, 0.15);
 			color: #fff !important;

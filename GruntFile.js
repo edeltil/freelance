@@ -14,6 +14,9 @@ module.exports = function (grunt) {
         },
         // To includes bower dependencies in  _includes/head.html file
         wiredep: {
+            options: {
+                baseUrl: '/freelance'
+            },
             dev: {
                 src: ['_includes/head.html', '_includes/foot.html'],
                 ignorePath: /\.\./,
@@ -23,9 +26,12 @@ module.exports = function (grunt) {
         },
         // To include js/*.js in _includes/foot.html file
         includeSource: {
-            options: {},
+            options: {
+                baseUrl: 'freelance/'
+            },
             dev: {
                 files: {
+                    '_includes/head.html': '_includes/head.html',
                     '_includes/foot.html': '_includes/foot.html'
                 }
             },
