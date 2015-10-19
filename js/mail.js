@@ -1,6 +1,5 @@
 $(document).ready(function($) {
-    $('#contactForm').preventDoubleSubmission();
-    $('#contactForm').submit(function (e) {
+    $('#contactbutton').click(function (e) {
         // get values from FORM
         var name = $("input#name").val();
         var email = $("input#email").val();
