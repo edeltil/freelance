@@ -1,5 +1,8 @@
 $(document).ready(function($) {
-    $('#contactbutton').click(function (e) {
+    
+	$("#contactbutton:submit").click(function (e) {
+	    $("#sendMail").text("Mail en cours d'envoi.....").addClass('submit');
+	    $("#contactForm:submit").attr("disabled", true);	
         // get values from FORM
         var name = $("input#name").val();
         var email = $("input#email").val();
@@ -25,7 +28,7 @@ $(document).ready(function($) {
         }, {
             // Success handler
             success: function() {
-                $('#sendMail').show();
+                $('#sendMail').text("E-Mail envoyé");
                 $('#contactForm')[0].reset();
             },
             // Error handler
