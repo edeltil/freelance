@@ -1,3 +1,14 @@
+// jQuery plugin to prevent double submission of forms
+jQuery.fn.preventDoubleSubmit = function() {
+  jQuery(this).submit(function() {
+    if (this.beenSubmitted)
+      return false;
+    else
+      this.beenSubmitted = true;
+  });
+};
+jQuery('#contactForm').preventDoubleSubmit();
+
 $(document).ready(function($) {
     
 	$("#contactbutton:submit").click(function (e) {
