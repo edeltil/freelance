@@ -1,6 +1,5 @@
 $(document).ready(function($) {
     $('#contactForm').submit(function (e) {
-        e.preventDefault();
         // get values from FORM
         var name = $("input#name").val();
         var email = $("input#email").val();
@@ -34,6 +33,6 @@ $(document).ready(function($) {
                 alert('Error: ' + message);
             }
         });
-
+        e.preventDefault();
     });
 });
