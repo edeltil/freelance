@@ -17,7 +17,7 @@ $(document).ready(function($) {
             var delai = $("#delai option:selected").text();
             var message = $("textarea#message").val();
 
-            if(name != "" && email != "" && isEmail(emailaddress)){
+            if(name != "" && email != "" && isEmail(email)){
                 Parse.initialize("tsVjWn4AwCdEkUkXR1dmuqaAMogtYspBBlHTWNRw", "Xm3zcKBgHkDpprIoTZm5H04BNe5GP6TalznNXuhm");
     
                 var mail = "Un nouveau client " + name + " a effectué une demande : \n" +
