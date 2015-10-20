@@ -45,6 +45,9 @@ $(document).ready(function($) {
                         alert('Error: ' + message);
                     }
                 });
+            }else{
+                $('#sendMail').text("Veuillez remplir les champs 'Nom' et 'Email'");
+                $('#sendMail').show();
             }
         }
     });
