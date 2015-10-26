@@ -1,10 +1,10 @@
 var submitted = false;
 $(document).ready(function($) {
-    function isEmail(email) {
+     function isEmail(email) {
       var regex = /^([a-zA-Z0-9_.+-])+\@(([a-zA-Z0-9-])+\.)+([a-zA-Z0-9]{2,4})+$/;
       return regex.test(email);
     }
-
+    
     $('#contactbutton').click(function (e) {
         e.preventDefault();
         if(!submitted) {
@@ -16,7 +16,6 @@ $(document).ready(function($) {
             var budget = $("#budget option:selected").text();
             var delai = $("#delai option:selected").text();
             var message = $("textarea#message").val();
-
             if(name != "" && email != "" && isEmail(email)){
                 Parse.initialize("tsVjWn4AwCdEkUkXR1dmuqaAMogtYspBBlHTWNRw", "Xm3zcKBgHkDpprIoTZm5H04BNe5GP6TalznNXuhm");
     

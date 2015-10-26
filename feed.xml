@@ -2,12 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Emilie</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</description>
-    <link>http://emilie-deltil.com/freelance/</link>
-    <atom:link href="http://emilie-deltil.com/freelance/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 19 Oct 2015 23:55:07 +0200</pubDate>
-    <lastBuildDate>Mon, 19 Oct 2015 23:55:07 +0200</lastBuildDate>
+    <description>Passionnée d'informatique, je suis développeur Java et Web depuis 9 ans. Mes différentes expériences professionnelles m'ont spécialisées dans le Java. J'aime les nouvelles technologies et les challenges technologiques.</description>
+    <link>http://edeltil.github.io/freelance/</link>
+    <atom:link href="http://edeltil.github.io/freelance/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 26 Oct 2015 21:40:49 +0100</pubDate>
+    <lastBuildDate>Mon, 26 Oct 2015 21:40:49 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -15,8 +14,8 @@
         <description>&lt;p&gt;Création d’un site e commerce pour vendre des créations en cuir en Wordpress avec un module WooCommerce.&lt;/p&gt;
 </description>
         <pubDate>Fri, 12 Sep 2014 00:00:00 +0200</pubDate>
-        <link>http://emilie-deltil.com/freelance/projects/ecommerce/2014/09/12/riku-creation.html</link>
-        <guid isPermaLink="true">http://emilie-deltil.com/freelance/projects/ecommerce/2014/09/12/riku-creation.html</guid>
+        <link>http://edeltil.github.io/freelance/projects/ecommerce/2014/09/12/riku-creation.html</link>
+        <guid isPermaLink="true">http://edeltil.github.io/freelance/projects/ecommerce/2014/09/12/riku-creation.html</guid>
         
         
         <category>projects</category>
@@ -46,8 +45,8 @@ Démonstration de l'application au client
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 12 Sep 2014 00:00:00 +0200</pubDate>
-        <link>http://emilie-deltil.com/freelance/cv/2014/09/12/adsn.html</link>
-        <guid isPermaLink="true">http://emilie-deltil.com/freelance/cv/2014/09/12/adsn.html</guid>
+        <link>http://edeltil.github.io/freelance/cv/2014/09/12/adsn.html</link>
+        <guid isPermaLink="true">http://edeltil.github.io/freelance/cv/2014/09/12/adsn.html</guid>
         
         
         <category>cv</category>
@@ -72,8 +71,8 @@ Gestion de projet, du recueil des besoins client jusqu'à la livraison
 &lt;/li&gt;&lt;/ul&gt;
 </description>
         <pubDate>Tue, 12 Jun 2012 00:00:00 +0200</pubDate>
-        <link>http://emilie-deltil.com/freelance/cv/2012/06/12/nextperformance.html</link>
-        <guid isPermaLink="true">http://emilie-deltil.com/freelance/cv/2012/06/12/nextperformance.html</guid>
+        <link>http://edeltil.github.io/freelance/cv/2012/06/12/nextperformance.html</link>
+        <guid isPermaLink="true">http://edeltil.github.io/freelance/cv/2012/06/12/nextperformance.html</guid>
         
         
         <category>cv</category>
@@ -96,8 +95,8 @@ Résolution des incidents de production
 &lt;/li&gt;&lt;/ul&gt;
 </description>
         <pubDate>Wed, 12 May 2010 00:00:00 +0200</pubDate>
-        <link>http://emilie-deltil.com/freelance/cv/2010/05/12/IT.html</link>
-        <guid isPermaLink="true">http://emilie-deltil.com/freelance/cv/2010/05/12/IT.html</guid>
+        <link>http://edeltil.github.io/freelance/cv/2010/05/12/IT.html</link>
+        <guid isPermaLink="true">http://edeltil.github.io/freelance/cv/2010/05/12/IT.html</guid>
         
         
         <category>cv</category>
@@ -112,8 +111,8 @@ Résolution et tests des incidents de production
 &lt;/li&gt;&lt;/ul&gt;
 </description>
         <pubDate>Tue, 12 Jan 2010 00:00:00 +0100</pubDate>
-        <link>http://emilie-deltil.com/freelance/cv/2010/01/12/GemaltoLC.html</link>
-        <guid isPermaLink="true">http://emilie-deltil.com/freelance/cv/2010/01/12/GemaltoLC.html</guid>
+        <link>http://edeltil.github.io/freelance/cv/2010/01/12/GemaltoLC.html</link>
+        <guid isPermaLink="true">http://edeltil.github.io/freelance/cv/2010/01/12/GemaltoLC.html</guid>
         
         
         <category>cv</category>
@@ -129,8 +128,8 @@ Conception et développement de nouveaux écrans en Eclipse RCP
 &lt;/li&gt;&lt;/ul&gt;
 </description>
         <pubDate>Sat, 12 Sep 2009 00:00:00 +0200</pubDate>
-        <link>http://emilie-deltil.com/freelance/cv/2009/09/12/GemaltoG.html</link>
-        <guid isPermaLink="true">http://emilie-deltil.com/freelance/cv/2009/09/12/GemaltoG.html</guid>
+        <link>http://edeltil.github.io/freelance/cv/2009/09/12/GemaltoG.html</link>
+        <guid isPermaLink="true">http://edeltil.github.io/freelance/cv/2009/09/12/GemaltoG.html</guid>
         
         
         <category>cv</category>
@@ -147,8 +146,8 @@ Création d’une documentation utilisateur en anglais
 &lt;/li&gt;&lt;/ul&gt;
 </description>
         <pubDate>Tue, 12 May 2009 00:00:00 +0200</pubDate>
-        <link>http://emilie-deltil.com/freelance/cv/2009/05/12/Eurocopter.html</link>
-        <guid isPermaLink="true">http://emilie-deltil.com/freelance/cv/2009/05/12/Eurocopter.html</guid>
+        <link>http://edeltil.github.io/freelance/cv/2009/05/12/Eurocopter.html</link>
+        <guid isPermaLink="true">http://edeltil.github.io/freelance/cv/2009/05/12/Eurocopter.html</guid>
         
         
         <category>cv</category>
@@ -163,8 +162,8 @@ Conception et développement de l’application
 &lt;/li&gt;&lt;/ul&gt;
 </description>
         <pubDate>Fri, 12 Sep 2008 00:00:00 +0200</pubDate>
-        <link>http://emilie-deltil.com/freelance/cv/2008/09/12/sncf.html</link>
-        <guid isPermaLink="true">http://emilie-deltil.com/freelance/cv/2008/09/12/sncf.html</guid>
+        <link>http://edeltil.github.io/freelance/cv/2008/09/12/sncf.html</link>
+        <guid isPermaLink="true">http://edeltil.github.io/freelance/cv/2008/09/12/sncf.html</guid>
         
         
         <category>cv</category>
@@ -181,8 +180,8 @@ Résolution d'incidents de production
 &lt;/li&gt;&lt;/ul&gt;
 </description>
         <pubDate>Fri, 12 Oct 2007 00:00:00 +0200</pubDate>
-        <link>http://emilie-deltil.com/freelance/cv/2007/10/12/psa.html</link>
-        <guid isPermaLink="true">http://emilie-deltil.com/freelance/cv/2007/10/12/psa.html</guid>
+        <link>http://edeltil.github.io/freelance/cv/2007/10/12/psa.html</link>
+        <guid isPermaLink="true">http://edeltil.github.io/freelance/cv/2007/10/12/psa.html</guid>
         
         
         <category>cv</category>
@@ -201,8 +200,8 @@ Livraison et installation de la production
 &lt;/li&gt;&lt;/ul&gt;
 </description>
         <pubDate>Tue, 12 Sep 2006 00:00:00 +0200</pubDate>
-        <link>http://emilie-deltil.com/freelance/cv/2006/09/12/seaspeo.html</link>
-        <guid isPermaLink="true">http://emilie-deltil.com/freelance/cv/2006/09/12/seaspeo.html</guid>
+        <link>http://edeltil.github.io/freelance/cv/2006/09/12/seaspeo.html</link>
+        <guid isPermaLink="true">http://edeltil.github.io/freelance/cv/2006/09/12/seaspeo.html</guid>
         
         
         <category>cv</category>
