@@ -4,9 +4,9 @@ layout: default
 <section id="one" >
     <div class="container">
         <header class="major">
-            <h3>{{ page.title }}</h3>
+            <h1>{{ page.title }}</h1>
                 <p class="post-meta">{{ page.date-start | date-start: "%b %-d, %Y" }} {% if page.date-end %} • {{ page.date-end | date-end: "%b %-d, %Y" }} {% else %} • A ce jour {% endif %} {% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-            <h4>{{page.function}}</h4>
+            <h2>{{page.function}}</h2>
         </header>
 
         <section class="post-content">

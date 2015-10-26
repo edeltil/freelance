@@ -64,28 +64,23 @@
 			text-decoration: none;
 		}
 
-	h2 {
-		font-size: 2em;
-		line-height: 1.5em;
-	}
-
-	h3 {
+	h1 {
 		color: #aba3f9;
 		font-size: 1.75em;
 		line-height: 1.5em;
 	}
 
-	h4 {
+	h2 {
 		font-size: 1.25em;
 		line-height: 1.5em;
 	}
 
-	h5 {
+	h3 {
 		font-size: 0.9em;
 		line-height: 1.5em;
 	}
 
-	h6 {
+	h4 {
 		font-size: 0.7em;
 		line-height: 1.5em;
 	}
@@ -179,20 +174,14 @@ section.diapo{
 	}
 
 	header h2 + p {
-		font-size: 1.25em;
-		margin-top: -0.5em;
-		line-height: 1.5em;
-	}
-
-	header h3 + p {
 		font-size: 1.1em;
 		margin-top: -0.35em;
 		line-height: 1.5em;
 	}
 
+	header h3 + p,
 	header h4 + p,
-	header h5 + p,
-	header h6 + p {
+	header h5 + p {
 		font-size: 0.9em;
 		margin-top: -0.25em;
 		line-height: 1.5em;

@@ -64,26 +64,21 @@ $size-header: 23em;
 	}
 
 	h2 {
-		font-size: 2em;
-		line-height: 1.5em;
-	}
-
-	h3 {
 		font-size: 1.75em;
 		line-height: 1.5em;
 	}
 
-	h4 {
+	h3 {
 		font-size: 1.25em;
 		line-height: 1.5em;
 	}
 	
-	h5 {
+	h4 {
 		font-size: 0.9em;
 		line-height: 1.5em;
 	}
 	
-	h6 {
+	h5 {
 		font-size: 0.7em;
 		line-height: 1.5em;
 	}
@@ -168,21 +163,21 @@ $size-header: 23em;
 			margin: 0 0 ($size-element-margin * 0.75) 0;
 		}
 		
-		h2 + p {
+		h1 + p {
 			font-size: 1.25em;
 			margin-top: -0.5em;
 			line-height: 1.5em;
 		}
 		
-		h3 + p {
+		h2 + p {
 			font-size: 1.1em;
 			margin-top: -0.35em;
 			line-height: 1.5em;
 		}
 		
+		h3 + p,
 		h4 + p,
-		h5 + p,
-		h6 + p {
+		h5 + p {
 			font-size: 0.9em;
 			margin-top: -0.25em;
 			line-height: 1.5em;
